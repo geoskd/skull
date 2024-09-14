@@ -1,0 +1,14 @@
+fp-info-cache
+libs/1_parts.bak
+replicate_layout.log
+~*.lck
+
+_autosave*
+*auto_saved_files*
+*backups/
+*Manufacturing files/
+*.csv
+*.xml
+*.net
+/*.pdf
+*.step
